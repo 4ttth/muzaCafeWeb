@@ -59,6 +59,11 @@ header nav ul li a {
         color: #5E0D16;
         right: 0;
     }        
+
+    .aboutAddress{
+        margin-left: -130px;
+    }
+    
 }
 
 @media screen and (min-width: 0px) and (max-width: 991px){
@@ -89,8 +94,11 @@ header nav ul li a {
         width: 100%;
         text-align: center;
     }
+    .aboutAddress{
+        margin-left: 0;
+    }
 }
-    
+
 
 
 .nav-link a{
